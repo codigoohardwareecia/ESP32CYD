@@ -17,3 +17,6 @@ https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-MonitorSecun
 
 - Projeto de exemplo de um VU Meter utilizado o ESP32 CYD com C# <br>
 https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-VuMeter/README.md
+
+- Projeto de exemplo de mini estação meteorologica conectada a internet<br>
+https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD_Monitor-Meteorologico/README.md
