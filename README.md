@@ -14,3 +14,6 @@ https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-MonitorSecun
 
 - Projeto de exemplo de Mini CFTV utilizando ESP32 CYD e o ESP32CAM <br>
 https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-MonitorSecundario/README.md
+
+- Projeto de exemplo de um VU Meter utilizado o ESP32 CYD com C# <br>
+https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-VuMeter/README.md
