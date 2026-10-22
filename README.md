@@ -5,3 +5,6 @@ https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32_CYD_HelloWorld/R
 
 - Projeto de exemplo para exibição de quaisquer tipo de dados no display de TFT do ESP32 CYD <br>
 https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32_CYD_Monitor_Dados/README.md
+
+- Projeto de exemplo para utilizar o touch do display de TFT como mesa de desenho <br>
+https://github.com/codigoohardwareecia/ESP32CYD/blob/main/ESP32-CYD-Desenhando/README.md
